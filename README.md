@@ -36,6 +36,7 @@ If you are interested in collaborating, connect me through my [LinkedIn](https:/
 ![Seaborn](https://img.shields.io/badge/Seaborn-%238FB3A9.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # ☎️ Connect with Me:
 <p>
