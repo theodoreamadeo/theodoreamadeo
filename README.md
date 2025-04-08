@@ -17,8 +17,6 @@
 
 If you are interested in collaborating, connect me through my [LinkedIn](https://www.linkedin.com/in/theodoreatmadja/) or directly through email at theodoreatmadja24@gmail.com. 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoreamadeo&theme=tokyonight&layout=compact" alt="theodoreamadeo" /></p>
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
