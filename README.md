@@ -1,19 +1,20 @@
 <h1>Hi 👋, I'm Theo!</h1>
 
-<p>I am a second-year Mechanical Engineering student at Nanyang Technological University (NTU), specializing in <b>Intelligent Manufacturing</b> and pursuing a minor in <b>Computing and Data Analysis</b>. 📖</p>
+<p>I am a penultimate Mechanical Engineering student at Nanyang Technological University (NTU), specializing in <b>Intelligent Manufacturing</b> and pursuing a minor in <b>Computing and Data Analysis</b>. </p>
 
 ### Interest that I am passionate about: 
-- Robotics 🤖  
-- Automation Systems ⚙️  
-- Machine Learning 🧠  
+- Robotics  
+- Automation Systems
+- Generative AI 
+- Machine Learning   
 
 
 ### Projects that I have worked on: 
+- [FinDDR2025 - English Financial Summarization (Oct 2025)](https://github.com/theodoreamadeo/english-financial-summarization)
 - [SUITS - Smart Unified Intelligent Technology for Style (May 2025)](https://github.com/theodoreamadeo/suits)
 - [Sort IQ - AI-powered waste classification system (Feb 2025)](https://github.com/theodoreamadeo/sort-iq)
 - [Rest and Ride - Automated bus stop system for elderly (Nov 2024)](https://github.com/theodoreamadeo/rest_and_ride)
 - [Tennis Match Predictor- AI-powered match prediction (Oct 2024)](https://github.com/theodoreamadeo/tennis_match_prediction)
-
 
 
 If you are interested in collaborating, connect me through my [LinkedIn](https://www.linkedin.com/in/theodoreatmadja/) or directly through email at theodoreatmadja24@gmail.com. 
